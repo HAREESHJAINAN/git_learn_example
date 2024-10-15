@@ -1,0 +1,17 @@
+git init      Working directory create
+
+git 
+
+Working Directory
+staging area
+local repo
+remote repo
+
+
+
+git add       Working directory to staging
+
+git commit    Staging to local
+
+git push      Local to remote
+
